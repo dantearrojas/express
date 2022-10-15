@@ -1,0 +1,31 @@
+{
+  "name": "Dante",
+  "lastname": "Rochabrun",
+  "Profession": "Engineer of System",
+  "age": "30",
+  "skills": {
+    "UX/UI": {
+      "adobe": {
+        "XD": "Prototype and Design",
+        "Figma": "Prototype and Design"
+      }
+    },
+    "FrontEnd": {
+      "Javascript": "Dynamic Web",
+      "HTML": "Structured Document",
+      "CSS": "Style Web Document",
+      "Frameworks": {
+        "React": "Web SPA / Components",
+        "Bootstrap": "Library CSS/HTML/JS",
+        "NextJS": "React Framework"
+      }
+    },
+    "Backend": {
+      "PHP": "Blog, WebApps",
+      "NodeJS": "Web Server, app console",
+      "Frameworks": {
+        "Express": "Networking services and applications"
+      }
+    }
+  }
+}
